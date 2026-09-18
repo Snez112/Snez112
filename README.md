@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trường</h1>
 
 <h3 align="center">
-  Frontend Developer from Vietnam
+  Frontend Developer expanding my skills in Java and Fabric Minecraft mod development.
 </h3>
 
 <p align="center">
@@ -21,7 +21,10 @@
 - 🎨 Interested in UI/UX, responsive design, and web performance
 - 🌱 Currently learning advanced frontend architecture
 - 🤝 Open to collaborating on interesting projects
-- 📫 Contact me at: `YOUR_EMAIL`
+- ☕ Currently learning Java for Minecraft mod development
+- 🧱 Developing custom mods with Fabric
+- 🔧 Learning mod architecture, registries, events, commands, and custom items
+- 📫 Contact me at: `Letruong25052003@gmail.com`
 
 ## Tech stack
 
@@ -33,6 +36,16 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Minecraft Mod Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric- Minecraft-?style=for-the-badge&logo=minecraft&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Blockbench](https://img.shields.io/badge/Blockbench-3D%20Modeling-8A2BE2?style=for-the-badge)
+
 
 ### Styling and UI
 
