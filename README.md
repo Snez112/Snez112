@@ -41,7 +41,7 @@
 ### Minecraft Mod Development
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Fabric](https://img.shields.io/badge/Fabric- Minecraft-?style=for-the-badge&logo=minecraft&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-Minecraft-?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Blockbench](https://img.shields.io/badge/Blockbench-3D%20Modeling-8A2BE2?style=for-the-badge)
